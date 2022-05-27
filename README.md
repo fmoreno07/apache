@@ -4,7 +4,7 @@
 
 ![AppVersion: 2.4.53](https://img.shields.io/badge/AppVersion-2.4.53-informational?style=for-the-badge)
 
-## Descricion
+## Descripcion
 
 Apache HTTP Server is an open-source HTTP server. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
 
