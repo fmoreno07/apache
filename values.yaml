@@ -3,13 +3,13 @@
 ## Please, note that this will override the image parameters, including dependencies, configured to use the global value
 ## Current available global Docker image parameters: imageRegistry, imagePullSecrets and storageClas
 
-#Aca va una descripcion de algo
 
 ## @param global.imageRegistry Global Docker image registry
 ## @param global.imagePullSecrets Global Docker registry secret names as an array
 ## @param global.storageClass Global StorageClass for Persistent Volume(s)
 ##
 global:
+  # -- Aca ponemos las descripciones de los values
   imageRegistry: ""
   ## E.g.
   ## imagePullSecrets:

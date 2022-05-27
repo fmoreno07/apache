@@ -65,7 +65,7 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 | git.repository | string | `"bitnami/git"` |  |
 | git.tag | string | `"2.36.1-debian-10-r11"` |  |
 | global.imagePullSecrets | list | `[]` |  |
-| global.imageRegistry | string | `""` |  |
+| global.imageRegistry | string | `""` | Aca ponemos las descripciones de los values |
 | global.storageClass | string | `""` |  |
 | hostAliases[0].hostnames[0] | string | `"status.localhost"` |  |
 | hostAliases[0].ip | string | `"127.0.0.1"` |  |
