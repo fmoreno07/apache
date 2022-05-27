@@ -26,7 +26,7 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 
 | Key | Type | Default | Description |
 |-----|------|---------|-------------|
-| affinity | object | `{}` |  |
+| affinity | object | `{}` | Aca ponemos las descripciones de los values |
 | args | list | `[]` |  |
 | autoscaling.enabled | bool | `false` |  |
 | autoscaling.maxReplicas | int | `11` |  |
@@ -96,7 +96,7 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 | ingress.tls[0].secretName | string | `"example.local-tls"` |  |
 | initContainers | list | `[]` |  |
 | kubeVersion | string | `""` |  |
-| lifecycleHooks | object | `{}` | Aca ponemos las descripciones de los values # @param lifecycleHooks for the Apache server container(s) to automate configuration before or after startup # |
+| lifecycleHooks | object | `{}` |  |
 | livenessProbe.enabled | bool | `true` |  |
 | livenessProbe.failureThreshold | int | `6` |  |
 | livenessProbe.initialDelaySeconds | int | `180` |  |

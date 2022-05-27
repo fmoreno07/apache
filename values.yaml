@@ -123,6 +123,8 @@ nodeAffinityPreset:
 ## Ref: https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#affinity-and-anti-affinity
 ## NOTE: podAffinityPreset, podAntiAffinityPreset, and nodeAffinityPreset will be ignored when it's set
 ##
+
+# -- Aca ponemos las descripciones de los values
 affinity: {}
 ## @param nodeSelector Node labels for pod assignment
 ## ref: https://kubernetes.io/docs/user-guide/node-selection/
@@ -221,8 +223,8 @@ containerSecurityContext:
 command: []
 ## @param args Override default container args (useful when using custom images)
 ##
+
 args: []
-# -- Aca ponemos las descripciones de los values
 ## @param lifecycleHooks for the Apache server container(s) to automate configuration before or after startup
 ##
 lifecycleHooks: {}
