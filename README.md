@@ -11,6 +11,17 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 ## Usage
 <fill out>
 
+## Maintainers
+
+| Name | Email | Url |
+| ---- | ------ | --- |
+| Bitnami | <containers@bitnami.com> |  |
+
+## Source Code
+
+* <https://github.com/bitnami/bitnami-docker-apache>
+* <https://httpd.apache.org>
+
 ## Values
 
 | Key | Type | Default | Description |
@@ -175,13 +186,3 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 
 **Homepage:** <https://github.com/bitnami/charts/tree/master/bitnami/apache>
 
-## Source Code
-
-* <https://github.com/bitnami/bitnami-docker-apache>
-* <https://httpd.apache.org>
-
-## Maintainers
-
-| Name | Email | Url |
-| ---- | ------ | --- |
-| Bitnami | <containers@bitnami.com> |  |
