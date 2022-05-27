@@ -1,13 +1,8 @@
-# Imcion para Apache
+# Informacion para Apache
 
 ![Version: 9.1.4](https://img.shields.io/badge/Version-9.1.4-informational?style=for-the-badge)
 
 ![AppVersion: 2.4.53](https://img.shields.io/badge/AppVersion-2.4.53-informational?style=for-the-badge)
-
-![Apache](https://www.ibxagency.com/blog/wp-content/uploads/2014/06/apache_server2.jpg=for-the-badge&logo=Apache&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Alpine Linux 3.15.0](https://img.shields.io/badge/alpine_linux_3.15.0-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 ## Description
 
