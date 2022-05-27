@@ -184,5 +184,5 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 | updateStrategy.type | string | `"RollingUpdate"` |  |
 | vhostsConfigMap | string | `""` |  |
 
-**Homepage:** <https://github.com/bitnami/charts/tree/master/bitnami/apache>
+#**Homepage:** <https://github.com/bitnami/charts/tree/master/bitnami/apache>
 
