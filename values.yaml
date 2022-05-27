@@ -222,6 +222,7 @@ command: []
 ## @param args Override default container args (useful when using custom images)
 ##
 args: []
+# -- Aca ponemos las descripciones de los values
 ## @param lifecycleHooks for the Apache server container(s) to automate configuration before or after startup
 ##
 lifecycleHooks: {}
