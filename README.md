@@ -22,6 +22,14 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 * <https://github.com/bitnami/bitnami-docker-apache>
 * <https://httpd.apache.org>
 
+To install the chart with the release name `my-release`:
+
+```console
+$helm repo add bitnami https://charts.bitnami.com/bitnami
+$helm install my-release bitnami/nginx/apache
+
+$ helm install my-release foo-bar/apache
+
 ## Values
 
 | Key | Type | Default | Description |
