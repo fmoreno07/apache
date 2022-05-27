@@ -23,7 +23,7 @@ Apache HTTP Server is an open-source HTTP server. The goal of this project is to
 * <https://httpd.apache.org>
 
 ## Installing the Chart
-To install the chart with the release name { template "chart.name" . }}:
+To install the chart with the release name apache:
 
 ```console
 $helm repo add bitnami https://charts.bitnami.com/bitnami
