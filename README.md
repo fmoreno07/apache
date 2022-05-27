@@ -28,8 +28,6 @@ To install the chart with the release name `my-release`:
 $helm repo add bitnami https://charts.bitnami.com/bitnami
 $helm install my-release bitnami/apache/apache
 
-$ helm install my-release foo-bar/apache
-
 ## Values
 
 | Key | Type | Default | Description |

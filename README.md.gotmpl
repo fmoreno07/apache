@@ -24,7 +24,7 @@ To install the chart with the release name `my-release`:
 $helm repo add bitnami https://charts.bitnami.com/bitnami
 $helm install my-release bitnami/apache/{{ template "chart.name" . }}
 
-$ helm install my-release foo-bar/{{ template "chart.name" . }}
+
 
 {{ template "chart.valuesSection" . }}
 
