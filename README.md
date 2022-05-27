@@ -26,7 +26,7 @@ To install the chart with the release name `my-release`:
 
 ```console
 $helm repo add bitnami https://charts.bitnami.com/bitnami
-$helm install my-release bitnami/nginx/apache
+$helm install my-release bitnami/apache/apache
 
 $ helm install my-release foo-bar/apache
 
