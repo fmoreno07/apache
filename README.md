@@ -4,11 +4,13 @@
 
 ![AppVersion: 2.4.53](https://img.shields.io/badge/AppVersion-2.4.53-informational?style=for-the-badge)
 
-## Description
+![Prometheus](https://www.ibxagency.com/blog/wp-content/uploads/2014/06/apache_server2.jpg=Prometheus&logoColor=white)
+
+## Descricion
 
 Apache HTTP Server is an open-source HTTP server. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
 
-## Usage
+## Uso
 <fill out>
 
 ## Maintainers
